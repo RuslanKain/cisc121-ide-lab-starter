@@ -1,0 +1,3 @@
+# Optional notebook support (recommended if you plan to run notebooks locally)
+jupyter
+ipykernel
