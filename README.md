@@ -77,7 +77,3 @@ Notebook state can get out of sync. Use: **Restart Kernel → Run All**. See: `d
 - VS Code: https://code.visualstudio.com/download
 - Colab: https://colab.google/
 
----
-
-### If you’re a TA
-See: `docs/TA_RUNBOOK.md` (the “minute-by-minute” script)
